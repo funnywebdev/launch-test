@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+npm-debug.log
+dist/
+
+.idea/
+*.zip
+*.rar
+.vscode
+.project
+.classpath
+.settings
+pom.xml.versionsBackup
+release.properties
+target
+node
+*.versionsBackup
